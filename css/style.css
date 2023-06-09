@@ -1,0 +1,49 @@
+*{
+	background-color:gray;
+	font-size:20px;
+}
+div{
+	padding:20px;
+}
+.a1 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow:visible;
+}
+.a2 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow:hidden;
+}
+.a3 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow:scroll;
+}
+.a4 p{
+	height:300px;
+	width:100px;
+	border:2px solid red;
+	overflow-x:scroll;
+}
+.a5 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow-y:scroll;
+}
+.a6 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow:auto;
+}
+.a7 p{
+	height:250px;
+	width:250px;
+	border:2px solid red;
+	overflow:clip;
+}
